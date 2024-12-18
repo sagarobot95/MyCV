@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Sagar Krishna
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Sagar Krishna
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sagar
+last_name: Krishna
 
 # Status emoji
 status:
@@ -20,44 +20,44 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Senior Research Engineer  
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Agency for Science, Technology and Research  
+    url: https://www.a-star.edu.sg/artc
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: krissagar95@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/youtube
+    url: https://www.youtube.com/@sagarkrishna5834
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/krissagar95/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/sagarobot95
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/krissagar95/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=_CzcoukAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0008-0964-3455
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - Multi agent Systems
+  - Algorithms
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS Computer Control and Automation
+    institution: Nanyang Technological University, Singapore
+    date_start: 2018-07-27
+    date_end: 2019-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Coursework with a thesis in Data Driven Extraction of Challenging Situations for Autonomous Vehicles, using Visual and CanBUS vehicle data.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
