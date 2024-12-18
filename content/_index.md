@@ -35,11 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+       As a Robotics Development Engineer, I bring dedicated expertise in mobile robot navigation and multi-robot heterogeneous fleet management. With a strong focus on innovation, I have successfully deployed practical and effective solutions in the warehouse and medium-level industries. Proficient in software development and simulations, I ensure thorough testing and seamless deployment of robotics systems. Passionate about pushing the boundaries of technology, I am driven to contribute to advancements in robotics.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
